@@ -31,7 +31,8 @@ The system simulates a bookstore where users can add, buy, and manage different 
 
 ## 🖼️ Screenshot of Output (Sample)
 
-![image](https://github.com/user-attachments/assets/aa60201b-bb0f-4bf7-8754-1b2d179e528b)
+![image](https://github.com/user-attachments/assets/bce9b842-242a-4845-8e22-91a54b22ee0e)
+
 
 
 ## 🔗 GitHub Repository
