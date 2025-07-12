@@ -1,7 +1,7 @@
 package model;
 
 public abstract class Book {
-    // using encapsulation concept
+        
     private int isbn , year;
     private double price;
     private String title;
